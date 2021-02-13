@@ -1,0 +1,13 @@
+.bg-grey{
+    background-color:darkgrey;
+}
+
+@font-face{
+    font-family: starcraft;
+    src: url(StarcraftNormal.ttf)
+
+}
+.sc-font{
+    font-family: starcraft ;
+    src: url(StarcraftNormal.ttf);
+}
